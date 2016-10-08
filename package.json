@@ -1,0 +1,10 @@
+{
+  "name": "typescript-modularized",
+  "author": "Anonymous",
+  "description": "typescript-modularized",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "rollup-plugin-typescript": "^0.8.1"
+  }
+}
